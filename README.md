@@ -50,10 +50,11 @@ Sample of completed phosphene maps as seen on the experimenter's monitor. Only t
 Developped on Mac and PC, extensively used on a single Mac laptop and monitor.
 
 ## License
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by]  
-by Sébastien Proulx, sebastien.prouxl2@mail.mcgill.ca, https://orcid.org/0000-0003-1709-3277  
-[![CC BY 4.0][cc-by-image]][cc-by]
+[![CC BY 4.0][cc-by-image]][cc-by]  
+This work is licensed under a Creative Commons Attribution 4.0 International License ([CC BY 4.0][cc-by])  
+by Sébastien Proulx  
+sebastien.prouxl2@mail.mcgill.ca  
+https://orcid.org/0000-0003-1709-3277  
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
