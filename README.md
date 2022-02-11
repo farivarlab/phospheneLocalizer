@@ -42,6 +42,8 @@ Elements displayed in the phosphene drawing field-of-view are controled in initi
 ### Outputs
 to be completed
 
+### Compatibility
+Developped on Mac and PC, extensively used on a single Mac laptop and monitor.
 
 ## License
 This work is licensed under a
