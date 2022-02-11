@@ -40,7 +40,11 @@ The phosphene drawing field-of-view also needs to be adjusted to your particular
 Elements displayed in the phosphene drawing field-of-view are controled in initiateStimParam.m, where the experimenter can for example adjust the brightness of the central cross for it to be just perceptible. Note that it also initiates other elements that are displayed only to the experimenter (through initiatePsychoStimParam.m), which are not necessary for mapping phosphenes but can be helpful to e.g. outline a region of the visual field that an experimenter might want to target.
 
 ### Outputs
-to be completed
+Sample of completed phosphene maps as seen on the experimenter's monitor. Only the last phosphene is outlined (in red). Heat maps combining all phosphenes are recomputed after each new phosphene.  
+<img src="./sampleOutput/az10_sess02_phos1__20181018_1459__phospheneDrawingRecord.jpg" width=33% height=33%>
+<img src="./sampleOutput/ks19_sess02_phos1__20190527_1057__phospheneDrawingAttend.jpg" width=33.8% height=33.8%>
+
+
 
 ### Compatibility
 Developped on Mac and PC, extensively used on a single Mac laptop and monitor.
