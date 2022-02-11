@@ -51,7 +51,8 @@ Developped on Mac and PC, extensively used on a single Mac laptop and monitor.
 
 ## License
 [![CC BY 4.0][cc-by-image]][cc-by]  
-This work is licensed under a Creative Commons Attribution 4.0 International License ([CC BY 4.0][cc-by])  
+This work is licensed under a  
+Creative Commons Attribution 4.0 International License ([CC BY 4.0][cc-by])  
 by Sébastien Proulx  
 sebastien.prouxl2@mail.mcgill.ca  
 https://orcid.org/0000-0003-1709-3277  
