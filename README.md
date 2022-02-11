@@ -31,13 +31,16 @@ The estimated phosphene threshold then correspond to the TMS intensity at the st
 ### phospheneDrawing.m
 A more rigid routine to collect phosphene drawings for a fixed number of TMS pulse and a fixed TMS intensity (if participants fail to perceive a phosphene after a pulse, it is recorded as a null phosphene).
 
-### Set-up
+### Visual Dispay Set-up and Other Parameters
 
-Compatibility with the monitor used can be finicky, and issues are handled in initiatePTB.m. For example, to control both the participant's visual environemnt and the experimenter's visual feedback from the same computer, dual display is used in extended desktop mode. You should make sure that the external screen is to the right of the main screen, with its upper limit flush with the main screen’s upper limit. In doubt, input screen resolutions manually in initiatePTB.m
+Compatibility with the monitor used can be finicky, and issues are mostly handled in initiatePTB.m. For example, to control both the participant's visual environemnt and the experimenter's visual feedback from the same computer, dual display is used in extended desktop mode. You should make sure that the external screen is to the right of the main screen, with its upper limit flush with the main screen’s upper limit. In doubt, input screen resolutions manually in initiatePTB.m
 
+The phosphene drawing field-of-view also needs to be adjusted to your particular monitor in setParam.m.
 
+Elements displayed in the phosphene drawing field-of-view are controled in initiateStimParam.m, where the experimenter can for example adjust the brightness of the central cross for it to be just perceptible. Note that it also initiates other elements that are displayed only to the experimenter (through initiatePsychoStimParam.m), which are not necessary for mapping phosphenes but can be helpful to e.g. outline a region of the visual field that an experimenter might want to target.
 
-Brightness of the central cross can be adjusted in initiateStimParam.m
+### Outputs
+to be completed
 
 
 ## License
